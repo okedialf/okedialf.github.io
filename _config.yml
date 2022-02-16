@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Okedialf's codecave
 description: Bookmark this to keep an eye on my project updates!
+hide_first_title: true
