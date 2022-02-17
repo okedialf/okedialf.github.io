@@ -11,4 +11,4 @@ I am also part of the [SMS One](https://smsone.co.ug) engineering team at [ICT H
 
 In 2023, I will be making 20 years since I wrote my first line of code.
 
-Plenty of expertise as a Fullstack Developer, Dev Ops Engineer, Lead Developer and Quality Assuarance and Testing. Tech stacks include Django, Laravel, ReactJs, VueJS, PHP, Python, Postgres, MySQL, Docker, Kubernetes, Javascript, Es6, NodeJS, Android, JAVA, React Native... among others.
+Plenty of expertise as a Fullstack Developer, Dev Ops Engineer, Team Lead, Quality Assuarance and Testing. Tech stacks inclusive of Django, Laravel, ReactJs, VueJS, PHP, Python, Postgres, MySQL, Docker, Kubernetes, Javascript, Es6, NodeJS, Android, JAVA, React Native... among others.
