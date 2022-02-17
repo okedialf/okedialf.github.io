@@ -7,8 +7,8 @@ title: About
 
 
 
-Hi there! I’m Okedi Alfred, a Software Engineer based in East Africa, Kampala.  I am currently working as a Developer advocate at [Africase](https://africase.org){:target="_blank"}
+Hi there! I’m Okedi Alfred, a Software Engineer based in East Africa, Kampala.  I am currently working as a Developer advocate at [Africase](https://africase.org){:target="_blank"}.
 
-Also I am contracted on the SMSOne engineering team at [ICT Hub](https://niisp.ict.go.ug/innovation-hub){:target="_blank"} doing a whole lot of amazing things.
+I am also part of the [SMS One](https://smsone.co.ug) engineering team at [ICT Hub](https://niisp.ict.go.ug/innovation-hub){:target="_blank"} doing a whole lot of amazing things.
 
 In 2023, I will be making 20 years since I wrote my first line of code.
