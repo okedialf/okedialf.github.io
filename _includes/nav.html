@@ -1,0 +1,8 @@
+
+        {% for item in site.data.menu.docs %}
+        {% if page.url == item.url %}
+          <a href="{{item.url}}" class="active btn">{{item.title}}</a>
+    {% else %}
+    <a href="{{ item.url }}" class="btn" target="{{ item.target  }}">{{ item.title }}</a>
+        {% endif %}
+          {% endfor %}

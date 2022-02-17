@@ -1,4 +1,13 @@
 theme: jekyll-theme-cayman
-title: Okedialf's codecave
+title: My CodeCave
 description: Bookmark this to keep an eye on my project updates!
-hide_first_title: true
+
+colors:
+  gradient_left: "#155799"
+  gradient_right: "#159957"
+  header: "#ff0"
+
+exclude:
+  - "package.json"
+  - "run.sh"
+  - "vendor"

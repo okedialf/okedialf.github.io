@@ -1,0 +1,15 @@
+docs:
+
+- title: About
+  url: /about
+
+- title: Keditance
+  url: /keditance
+
+- title: Twitter
+  url: https://twitter.com/okedialf
+  target: _blank
+
+- title: Github
+  url: https://github.com/okedialf
+  target: _blank
