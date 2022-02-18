@@ -11,3 +11,5 @@ exclude:
   - "package.json"
   - "run.sh"
   - "vendor"
+
+plugins: [jekyll-mermaid]
