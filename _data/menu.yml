@@ -6,6 +6,10 @@ docs:
 - title: Keditance
   url: /keditance
 
+- title: Africase
+  url: https://www.africase.org
+  target: _blank
+
 - title: Twitter
   url: https://twitter.com/okedialf
   target: _blank
@@ -18,6 +22,3 @@ docs:
   url: https://www.linkedin.com/in/alfred-okedi-93770872/
   target: _blank
 
-- title: Africase
-  url: https://www.africase.org
-  target: _blank

@@ -1,6 +1,7 @@
 ---
 title: About
 layout: page
+permalink: /about
 ---
 
 <img src="https://avatars.githubusercontent.com/u/10192723" style="border-radius:150px; width:250px; height:250px; border:5px solid #336699; float:right; margin-bottom:45px; background:#336699"/>
