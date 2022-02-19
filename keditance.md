@@ -8,7 +8,7 @@ description: Abstract Inheritance + Relationship = Absolute Inheritance
 ## Keditance
 Keditance is a design pattern in
 [Object Orientated Programming](https://en.wikipedia.org/wiki/Object-oriented_programming){:target="_blank"}
-that ensure absolute inheritance. Inheritance is relative by design, a child class inherits from a parent child.
+that ensure absolute inheritance. Inheritance is relative by design, a child class inherits from a parent child. With absolute inheritance, both parent and child inherit from an abstract class while relating to each other.
 
 
 
